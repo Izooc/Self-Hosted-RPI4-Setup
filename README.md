@@ -10,3 +10,6 @@ I eventually figured out that if i advertise my Digitalocean VPS as a tailscale 
 to create a proxy host and point it to my raspberry pi's ip.
 
 #Resources I Used
+[This Repo](https://github.com/abhilesh/self-hosted_docker_setups) has been amazing. Multiple docker compose files for all your needs.
+The Awesome Selfhosted repo has been very useful aswell
+
