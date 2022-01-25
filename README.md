@@ -11,5 +11,6 @@ to create a proxy host and point it to my raspberry pi's ip.
 
 # Resources I Used
 [This Repo](https://github.com/abhilesh/self-hosted_docker_setups) has been amazing. Multiple docker compose files for all your needs.
-The [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) repo has been very useful aswell
+The [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) repo has been very useful aswell.
+[DBTech's YT Channel](https://www.youtube.com/c/DBTechYT) has been brilliant for setting up fail2ban with cloudflare, and Authelia.
 
